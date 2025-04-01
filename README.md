@@ -1,6 +1,13 @@
 # Structural-Variant-calling-and-annotation
 
+This repository documents existing structural variant annotation tools, provides a [web interface](https://amia-vicc-sv-wg.github.io/) for users to create benchmarking heatmaps for annotation tools based on a baseline of required features. Finally this repository also provides up-to-date information on AI tools available for Structural variant calling and annotation. 
 
+Here is the current (up-to-date, 4/1/2025) benchmarking performed on various structural annotation tools. 
+
+![SV Annotation tools comparison](https://github.com/amia-vicc-sv-wg/Structural-Variant-calling-and-annotation/blob/main/SV_comparison.png)
+
+## Tool for benchmarking structural variant annotation tools on a baseline of required features. 
+Structural Variant annotation benchmarking [web interface](https://amia-vicc-sv-wg.github.io/). 
 
 ## AI_for_SV_calling
 Repository for  AI-based tools developed for structural variant (SV) calling in human genomes. Tools are grouped by their primary function.
